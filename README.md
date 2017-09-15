@@ -1,4 +1,4 @@
-# python-Scripts
+# awesomePython
 python scripts to make our task easier
 
 ## 1. [stayUpdated](https://github.com/msdeep14/stayUpdated)
