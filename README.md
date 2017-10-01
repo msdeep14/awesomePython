@@ -17,3 +17,7 @@ send message(s) to friend on facebook through terminal
 
 get most upvoted answers from the topics you are following on Quora
 
+## 5. [trackGitHubStars](https://github.com/msdeep14/trackGitHubStars)
+
+python script to find top 10 starred repos of user on GitHub
+
