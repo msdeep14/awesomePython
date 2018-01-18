@@ -3,7 +3,7 @@ python scripts to make our task easier
 
 ## 1. [stayUpdated](https://github.com/msdeep14/stayUpdated)
  
-get latest updates through SMS from aitplacements.com
+get latest updates through SMS on mobile and desktop notifications from aitplacements.com
 
 ## 2. [getNotified](https://github.com/msdeep14/getNotified)
 
